@@ -4,7 +4,7 @@ letter_list = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 
 number_list = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbol_list = ['!', '#', '$', '%', '&', '(', ')', '*', '+']    
 
-total=int(input("How many total characters do you want in the password?")) 
+total=int(input("How many total characters do you want in the password?"))   
 numbers=int(input("How many numbers do you want in the password?"))
 letters=int(input("How many letters do you want in the password?"))
 symbol=int(input("How many symbols do you want in the password?"))
